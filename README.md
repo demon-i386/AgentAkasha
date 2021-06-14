@@ -1,2 +1,2 @@
 # AgentWired
-🛰️ Multiplatform remote access trojan
+🛰️ Remote access trojan
