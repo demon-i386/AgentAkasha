@@ -1,2 +1,2 @@
-# AgentWired
+# AgentAkasha
 🛰️ Remote access trojan
