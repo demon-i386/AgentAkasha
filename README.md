@@ -1,6 +1,10 @@
 # AgentAkasha
 🛰️ Remote access trojan
 
+## DESCRIPTION
+
+- "Connection Strategy"
+
 ## LICENSE 
 
 (MIT License)
