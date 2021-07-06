@@ -1,5 +1,5 @@
 # AgentAkasha
-🛰️ Remote access trojan
+🛰️ Remote administration tool
 
 ## DESCRIPTION
 
